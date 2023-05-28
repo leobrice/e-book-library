@@ -1,0 +1,13 @@
+# bootstrap file
+bootstrap-4.1.3-dist
+
+
+# books file
+assets/books
+
+# image path
+assets/images
+
+
+# Admin bootstrap files
+Admin/bootstrap-4.1.3-dist
